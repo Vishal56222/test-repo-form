@@ -1,24 +1,162 @@
 [
   {
-    "id": "qa",
-    "title": "QA",
+    "id": "swe-001",
+    "title": "Senior Software Engineer",
     "department": "Engineering",
     "location": "Remote",
-    "employment_type": "Part-time",
+    "employment_type": "Full-time",
     "experience_level": "Senior",
-    "description": "tEDT",
+    "description": "We're looking for a Senior Software Engineer to join our growing platform team. You'll work on high-impact features that serve millions of users, collaborating closely with product and design to ship reliable, scalable software.",
     "responsibilities": [
-      "TEST"
+      "Design, build, and maintain scalable backend services using Node.js and TypeScript",
+      "Collaborate with cross-functional teams to define and implement new features",
+      "Conduct thorough code reviews and uphold engineering best practices",
+      "Mentor junior engineers and contribute to a healthy team culture",
+      "Participate in on-call rotations and incident response"
     ],
     "requirements": [
-      "TEST"
+      "5+ years of professional software engineering experience",
+      "Strong proficiency in TypeScript, Node.js, or similar backend stack",
+      "Experience with relational databases (PostgreSQL, MySQL)",
+      "Solid understanding of REST API design and microservices architecture",
+      "Comfortable working in an agile, fast-paced environment"
     ],
     "nice_to_have": [
-      "DASD"
+      "Experience with Kubernetes and container orchestration",
+      "Familiarity with AWS or GCP cloud infrastructure",
+      "Open source contributions"
     ],
-    "application_form": "http://localhost:3000/recruitment",
-    "salary_range": "200K-500K",
-    "createdAt": "2026-03-17T18:27:59.693Z",
-    "updatedAt": "2026-03-17T18:27:59.693Z"
+    "application_form": "https://careers.example.com/apply/swe-001",
+    "salary_range": "$140K–$180K",
+    "createdAt": "2026-03-10T09:00:00.000Z",
+    "updatedAt": "2026-03-10T09:00:00.000Z"
+  },
+  {
+    "id": "pm-002",
+    "title": "Product Manager",
+    "department": "Product",
+    "location": "New York, NY",
+    "employment_type": "Full-time",
+    "experience_level": "Mid-level",
+    "description": "We're seeking a driven Product Manager to own the roadmap for our core consumer product. You'll partner with engineering, design, and data teams to identify opportunities, define requirements, and deliver features that delight our users.",
+    "responsibilities": [
+      "Define and prioritize the product roadmap in alignment with company goals",
+      "Write clear product requirements and user stories for engineering teams",
+      "Analyze user research, data, and market trends to inform product decisions",
+      "Facilitate sprint planning, standups, and retrospectives",
+      "Communicate product vision and progress to stakeholders"
+    ],
+    "requirements": [
+      "3+ years of product management experience in a tech company",
+      "Proven ability to ship products end-to-end in a cross-functional environment",
+      "Strong analytical skills with experience using tools like Amplitude or Mixpanel",
+      "Excellent written and verbal communication skills",
+      "Customer-first mindset with a passion for solving real user problems"
+    ],
+    "nice_to_have": [
+      "Experience in B2C SaaS or consumer mobile apps",
+      "Technical background or ability to read basic code",
+      "MBA or equivalent advanced degree"
+    ],
+    "application_form": "https://careers.example.com/apply/pm-002",
+    "salary_range": "$110K–$145K",
+    "createdAt": "2026-03-12T10:30:00.000Z",
+    "updatedAt": "2026-03-14T08:15:00.000Z"
+  },
+  {
+    "id": "ds-003",
+    "title": "Data Scientist",
+    "department": "Data & Analytics",
+    "location": "San Francisco, CA",
+    "employment_type": "Full-time",
+    "experience_level": "Mid-level",
+    "description": "Join our Data & Analytics team to help us turn raw data into actionable insights. You'll build models that power personalization, forecasting, and business intelligence across the company.",
+    "responsibilities": [
+      "Develop and deploy machine learning models for recommendation and prediction systems",
+      "Collaborate with product and engineering to integrate models into production pipelines",
+      "Design and analyze A/B experiments to evaluate feature impact",
+      "Build dashboards and reports to communicate findings to non-technical stakeholders",
+      "Maintain and improve data quality standards across key datasets"
+    ],
+    "requirements": [
+      "3+ years of experience in a data science or ML engineering role",
+      "Proficiency in Python (pandas, scikit-learn, PyTorch or TensorFlow)",
+      "Strong SQL skills and experience with large-scale data warehouses (e.g. BigQuery, Snowflake)",
+      "Solid grounding in statistics and experimental design",
+      "Experience taking models from prototype to production"
+    ],
+    "nice_to_have": [
+      "Experience with NLP or LLM-based applications",
+      "Familiarity with dbt or similar data transformation tools",
+      "Published research or Kaggle competition experience"
+    ],
+    "application_form": "https://careers.example.com/apply/ds-003",
+    "salary_range": "$125K–$160K",
+    "createdAt": "2026-03-13T14:00:00.000Z",
+    "updatedAt": "2026-03-13T14:00:00.000Z"
+  },
+  {
+    "id": "ux-004",
+    "title": "UX Designer",
+    "department": "Design",
+    "location": "Remote",
+    "employment_type": "Full-time",
+    "experience_level": "Mid-level",
+    "description": "We're looking for a UX Designer who obsesses over craft and empathy. You'll lead end-to-end design for key product areas, shaping experiences that are intuitive, accessible, and visually refined.",
+    "responsibilities": [
+      "Lead UX research including user interviews, usability tests, and surveys",
+      "Create wireframes, prototypes, and high-fidelity designs in Figma",
+      "Partner with product managers to align design work with business goals",
+      "Champion accessibility and inclusive design principles across the product",
+      "Contribute to and maintain the company's design system"
+    ],
+    "requirements": [
+      "4+ years of UX/product design experience",
+      "Strong portfolio demonstrating end-to-end design process",
+      "Expert-level proficiency in Figma",
+      "Experience conducting user research and translating insights into design decisions",
+      "Excellent communication and collaboration skills"
+    ],
+    "nice_to_have": [
+      "Experience designing for mobile-first or native iOS/Android apps",
+      "Basic front-end knowledge (HTML/CSS)",
+      "Motion design or micro-interaction experience"
+    ],
+    "application_form": "https://careers.example.com/apply/ux-004",
+    "salary_range": "$100K–$130K",
+    "createdAt": "2026-03-15T11:00:00.000Z",
+    "updatedAt": "2026-03-15T11:00:00.000Z"
+  },
+  {
+    "id": "devops-005",
+    "title": "DevOps Engineer",
+    "department": "Infrastructure",
+    "location": "Austin, TX",
+    "employment_type": "Full-time",
+    "experience_level": "Senior",
+    "description": "We're hiring a Senior DevOps Engineer to own and evolve our cloud infrastructure. You'll ensure our platform is secure, reliable, and able to scale with our rapid growth.",
+    "responsibilities": [
+      "Design and manage cloud infrastructure on AWS using Terraform and CloudFormation",
+      "Build and maintain CI/CD pipelines to support fast, reliable deployments",
+      "Monitor system health, respond to incidents, and drive post-mortems",
+      "Implement security best practices and manage access controls",
+      "Collaborate with engineering teams to optimize performance and reduce costs"
+    ],
+    "requirements": [
+      "5+ years of DevOps or infrastructure engineering experience",
+      "Deep hands-on experience with AWS (EC2, RDS, EKS, S3, IAM)",
+      "Proficiency with infrastructure-as-code tools (Terraform preferred)",
+      "Experience with Docker and Kubernetes in production",
+      "Strong scripting skills in Bash or Python"
+    ],
+    "nice_to_have": [
+      "AWS certifications (Solutions Architect, DevOps Engineer)",
+      "Experience with service mesh technologies (Istio, Linkerd)",
+      "Background in SRE practices"
+    ],
+    "application_form": "https://careers.example.com/apply/devops-005",
+    "salary_range": "$145K–$185K",
+    "createdAt": "2026-03-16T08:45:00.000Z",
+    "updatedAt": "2026-03-17T07:30:00.000Z"
   }
 ]
