@@ -158,5 +158,27 @@
     "salary_range": "$145K–$185K",
     "createdAt": "2026-03-16T08:45:00.000Z",
     "updatedAt": "2026-03-17T07:30:00.000Z"
+  },
+  {
+    "id": "senior-qa",
+    "title": "Senior QA",
+    "department": "Engineering",
+    "location": "Remote",
+    "employment_type": "Part-time",
+    "experience_level": "Entry",
+    "description": "sda",
+    "responsibilities": [
+      "sdas"
+    ],
+    "requirements": [
+      "sdsa"
+    ],
+    "nice_to_have": [
+      "sdas"
+    ],
+    "application_form": "http://localhost:3000/recruitment",
+    "salary_range": "sdasd",
+    "createdAt": "2026-03-18T07:51:39.947Z",
+    "updatedAt": "2026-03-18T07:51:39.947Z"
   }
 ]
