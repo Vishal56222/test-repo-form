@@ -126,37 +126,5 @@
     "salary_range": "$100K–$130K",
     "createdAt": "2026-03-15T11:00:00.000Z",
     "updatedAt": "2026-03-15T11:00:00.000Z"
-  },
-  {
-    "id": "devops-005",
-    "title": "DevOps Engineer",
-    "department": "Infrastructure",
-    "location": "Austin, TX",
-    "employment_type": "Full-time",
-    "experience_level": "Senior",
-    "description": "We're hiring a Senior DevOps Engineer to own and evolve our cloud infrastructure. You'll ensure our platform is secure, reliable, and able to scale with our rapid growth.",
-    "responsibilities": [
-      "Design and manage cloud infrastructure on AWS using Terraform and CloudFormation",
-      "Build and maintain CI/CD pipelines to support fast, reliable deployments",
-      "Monitor system health, respond to incidents, and drive post-mortems",
-      "Implement security best practices and manage access controls",
-      "Collaborate with engineering teams to optimize performance and reduce costs"
-    ],
-    "requirements": [
-      "5+ years of DevOps or infrastructure engineering experience",
-      "Deep hands-on experience with AWS (EC2, RDS, EKS, S3, IAM)",
-      "Proficiency with infrastructure-as-code tools (Terraform preferred)",
-      "Experience with Docker and Kubernetes in production",
-      "Strong scripting skills in Bash or Python"
-    ],
-    "nice_to_have": [
-      "AWS certifications (Solutions Architect, DevOps Engineer)",
-      "Experience with service mesh technologies (Istio, Linkerd)",
-      "Background in SRE practices"
-    ],
-    "application_form": "https://careers.example.com/apply/devops-005",
-    "salary_range": "$145K–$185K",
-    "createdAt": "2026-03-16T08:45:00.000Z",
-    "updatedAt": "2026-03-17T07:30:00.000Z"
   }
 ]
