@@ -30,37 +30,5 @@
     "salary_range": "$140K–$180K",
     "createdAt": "2026-03-10T09:00:00.000Z",
     "updatedAt": "2026-03-10T09:00:00.000Z"
-  },
-  {
-    "id": "pm-002",
-    "title": "Product Manager",
-    "department": "Product",
-    "location": "New York, NY",
-    "employment_type": "Full-time",
-    "experience_level": "Mid-level",
-    "description": "We're seeking a driven Product Manager to own the roadmap for our core consumer product. You'll partner with engineering, design, and data teams to identify opportunities, define requirements, and deliver features that delight our users.",
-    "responsibilities": [
-      "Define and prioritize the product roadmap in alignment with company goals",
-      "Write clear product requirements and user stories for engineering teams",
-      "Analyze user research, data, and market trends to inform product decisions",
-      "Facilitate sprint planning, standups, and retrospectives",
-      "Communicate product vision and progress to stakeholders"
-    ],
-    "requirements": [
-      "3+ years of product management experience in a tech company",
-      "Proven ability to ship products end-to-end in a cross-functional environment",
-      "Strong analytical skills with experience using tools like Amplitude or Mixpanel",
-      "Excellent written and verbal communication skills",
-      "Customer-first mindset with a passion for solving real user problems"
-    ],
-    "nice_to_have": [
-      "Experience in B2C SaaS or consumer mobile apps",
-      "Technical background or ability to read basic code",
-      "MBA or equivalent advanced degree"
-    ],
-    "application_form": "https://careers.example.com/apply/pm-002",
-    "salary_range": "$110K–$145K",
-    "createdAt": "2026-03-12T10:30:00.000Z",
-    "updatedAt": "2026-03-14T08:15:00.000Z"
   }
 ]
