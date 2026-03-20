@@ -62,37 +62,5 @@
     "salary_range": "$110K–$145K",
     "createdAt": "2026-03-12T10:30:00.000Z",
     "updatedAt": "2026-03-14T08:15:00.000Z"
-  },
-  {
-    "id": "ds-003",
-    "title": "Data Scientist",
-    "department": "Data & Analytics",
-    "location": "San Francisco, CA",
-    "employment_type": "Full-time",
-    "experience_level": "Mid-level",
-    "description": "Join our Data & Analytics team to help us turn raw data into actionable insights. You'll build models that power personalization, forecasting, and business intelligence across the company.",
-    "responsibilities": [
-      "Develop and deploy machine learning models for recommendation and prediction systems",
-      "Collaborate with product and engineering to integrate models into production pipelines",
-      "Design and analyze A/B experiments to evaluate feature impact",
-      "Build dashboards and reports to communicate findings to non-technical stakeholders",
-      "Maintain and improve data quality standards across key datasets"
-    ],
-    "requirements": [
-      "3+ years of experience in a data science or ML engineering role",
-      "Proficiency in Python (pandas, scikit-learn, PyTorch or TensorFlow)",
-      "Strong SQL skills and experience with large-scale data warehouses (e.g. BigQuery, Snowflake)",
-      "Solid grounding in statistics and experimental design",
-      "Experience taking models from prototype to production"
-    ],
-    "nice_to_have": [
-      "Experience with NLP or LLM-based applications",
-      "Familiarity with dbt or similar data transformation tools",
-      "Published research or Kaggle competition experience"
-    ],
-    "application_form": "https://careers.example.com/apply/ds-003",
-    "salary_range": "$125K–$160K",
-    "createdAt": "2026-03-13T14:00:00.000Z",
-    "updatedAt": "2026-03-13T14:00:00.000Z"
   }
 ]
