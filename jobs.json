@@ -94,37 +94,5 @@
     "salary_range": "$125K–$160K",
     "createdAt": "2026-03-13T14:00:00.000Z",
     "updatedAt": "2026-03-13T14:00:00.000Z"
-  },
-  {
-    "id": "ux-004",
-    "title": "UX Designer",
-    "department": "Design",
-    "location": "Remote",
-    "employment_type": "Full-time",
-    "experience_level": "Mid-level",
-    "description": "We're looking for a UX Designer who obsesses over craft and empathy. You'll lead end-to-end design for key product areas, shaping experiences that are intuitive, accessible, and visually refined.",
-    "responsibilities": [
-      "Lead UX research including user interviews, usability tests, and surveys",
-      "Create wireframes, prototypes, and high-fidelity designs in Figma",
-      "Partner with product managers to align design work with business goals",
-      "Champion accessibility and inclusive design principles across the product",
-      "Contribute to and maintain the company's design system"
-    ],
-    "requirements": [
-      "4+ years of UX/product design experience",
-      "Strong portfolio demonstrating end-to-end design process",
-      "Expert-level proficiency in Figma",
-      "Experience conducting user research and translating insights into design decisions",
-      "Excellent communication and collaboration skills"
-    ],
-    "nice_to_have": [
-      "Experience designing for mobile-first or native iOS/Android apps",
-      "Basic front-end knowledge (HTML/CSS)",
-      "Motion design or micro-interaction experience"
-    ],
-    "application_form": "https://careers.example.com/apply/ux-004",
-    "salary_range": "$100K–$130K",
-    "createdAt": "2026-03-15T11:00:00.000Z",
-    "updatedAt": "2026-03-15T11:00:00.000Z"
   }
 ]
